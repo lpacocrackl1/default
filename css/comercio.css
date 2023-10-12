@@ -1,0 +1,32 @@
+.inicio{
+    --opacidad-negro: 0.4;
+    background-image: linear-gradient(rgba(0,0,0,var(--opacidad-negro)),rgba(0,0,0, var(--opacidad-negro))),url("../img/DreamShaper_v7_moda_hombres_0.webp");
+    background-position: center;
+    background-size: cover;
+    height: 65rem;
+}
+.card{
+    width: 18rem;
+    background-color: #fffefe;
+    .card-tittle{
+        font-size: 1.3rem;
+        color:black;
+        text-shadow: 1px,1px,1px,black;
+    }
+    .card-text{
+        font-size: 0.9rem;
+        color:crimson;
+    }
+}
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: darkcyan;
+}
+.navbar-brand{
+    color: white;
+}
