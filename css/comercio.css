@@ -20,7 +20,7 @@
 }
 .navbar{
     background-color: black;
-}
+}               
 .nav-link{
     color: white;
 }
@@ -29,4 +29,18 @@
 }
 .navbar-brand{
     color: white;
+}
+
+.home{
+    color: #fffefe;
+}
+
+.vermas{
+    float:right;
+}
+
+.contacto{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
 }
